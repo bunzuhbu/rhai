@@ -23,6 +23,7 @@ let s = "This is a long \
 
 // String interpolation
 print(`One string: ${s}`);
+print(`One another script: \${s}`)
 
 // Multi-line literal string:
 let s = `
